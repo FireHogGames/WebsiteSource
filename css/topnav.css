@@ -46,3 +46,19 @@
 	transition: 0.2s;
 	color: #828282;
 }
+
+.topnav button{
+	text-decoration: none;
+	color: white;
+	padding: 13.5px 30px;
+	font-size: 25px;
+	float: left;
+	border: none;
+	background-color: #2466ae;
+}
+
+.topnav button:hover{
+	transition: 0.2s;
+	color: white;
+	background-color: #1b4d83;
+}
