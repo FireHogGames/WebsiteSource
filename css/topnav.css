@@ -55,8 +55,10 @@
 	float: left;
 	border: none;
 	background-color: #2466ae;
-	button:focus {outline:0;}
+	
 }
+
+button:focus {outline:0;}
 
 .topnav button:hover{
 	transition: 0.2s;
