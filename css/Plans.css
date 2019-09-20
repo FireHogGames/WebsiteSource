@@ -1,0 +1,44 @@
+.item-standard{
+	-webkit-box-shadow: 0px 0px 49px -16px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 49px -16px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 49px -16px rgba(0,0,0,0.75);
+	text-align: center;
+
+	width: 300px;
+	margin-top: 5%;
+	margin-left: 7.5%;
+	height: 350px;
+
+	padding-bottom: 10%;
+
+	display: inline-block;
+	vertical-align: top;
+
+	color: white;
+}
+
+.item-standard p{
+	padding-top: 10%;
+	font-size: 20px;
+}
+
+.item-text-standard{
+	padding-top: 10%;
+}
+
+.price{
+	vertical-align: bottom;
+	background-color: #2466aa;
+	overflow: hidden;
+	padding: 12px 5px;
+
+}
+
+.price a{
+	text-decoration: none;
+	color: white;
+}
+
+.price:hover{
+	background-color: #2466ae;
+}

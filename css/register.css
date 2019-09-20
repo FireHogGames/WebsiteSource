@@ -1,0 +1,22 @@
+.MainBody{
+	text-align: center;
+	margin-top: 11%;
+}
+
+.MainBody input{
+	width: 25%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	
+	font-size: 20px;
+
+	border: none;
+	border-radius: 7px;
+
+	margin-top: 10px;
+}
+
+.MainBody h1{
+	font-size: 50px;
+	color: white;
+}

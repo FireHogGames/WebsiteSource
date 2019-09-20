@@ -1,0 +1,34 @@
+.title a{
+	text-decoration: none;
+	color: black;
+	font-size: 50px;
+	background-color: white;
+	padding: 10px 10px 10px 10px;
+
+	border-radius: .2em;
+	}
+
+.title a:hover{
+	transition: 0.2s;
+	background-color: #256bb6;
+	color: white;
+}
+
+body{
+	background-color: #1b4d83;
+}
+
+.title{
+	text-align: center;
+	margin-top: 11%;
+	color: white;
+	
+}
+
+.title h1{
+	font-size: 90px;
+}
+
+.title h2{
+	font-size: 60px;
+}
