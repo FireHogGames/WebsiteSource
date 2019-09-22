@@ -40,5 +40,6 @@
 }
 
 .price:hover{
-	background-color: #2466ae;
+	transition: .2s;
+	background-color: #1e5593;
 }

@@ -22,8 +22,9 @@
 			<strong>
 			<a href="index">Home</a>
 			<a class="active" href="plans">Plans</a>
+			<a href="#contact">Contact</a>
 			<a  class="login" href="#panel">Panel</a>
-			<a  class="login" href="register">Register</a>
+			<a  class="login" href="login">Account</a>
 			<button class="login" onclick="opendiscordchat()"><strong>Our Discord</strong></button>
 			</strong>
 		</div>
@@ -42,10 +43,11 @@
 						
 					</div>
 					<div style="margin-top: 60%;" class="price">
-							<a href="#Standard">Order now<br> €2,99</a>
+							<a href="#Standard">Order now<br> €4,99</a>
 						</div>
 				</div>
 				<div class="item-standard">
+					<div class="recommended" style="background-color: lime; overflow: hidden; border-radius: 10px;"><h1>Recommended!!</h1></div>
 					<div class="item-text-standard">
 						<h1>Pro plan!</h1>
 						<p>25GB SSD storage!</p>
@@ -54,8 +56,8 @@
 						
 					</div>
 
-					<div style="margin-top: 60%;" class="price">
-							<a href="#Pro">Order now<br> €5,99/month</a>
+					<div style="margin-top: 32.5%;" class="price">
+							<a href="#Pro">Order now<br> €7,99/month</a>
 						</div>
 				</div>
 				<div class="item-standard">
@@ -64,12 +66,12 @@
 						<p>45GB SSD storage!</p>
 						<p>Access files everywhere!</p>
 						<p>24/7 customer service for free!</p>
-						<p>File recovery for free</p>
+						<p>Account recovery for free</p>
 						
 					</div>
 
 					<div style="margin-top: 35%;" class="price">
-							<a href="#Master">Order now<br> €9,99/month</a>
+							<a href="#Master">Order now<br> €11,99/month</a>
 						</div>
 				</div>
 				<div class="item-standard">
@@ -78,11 +80,11 @@
 						<p>65GB SSD storage!</p>
 						<p>Access files everywhere!</p>
 						<p>24/7 customer service for free!</p>
-						<p>File recovery for free</p>
+						<p>Account recovery for free</p>
 						
 					</div>
 					<div style="margin-top: 35%;" class="price">
-							<a href="#Ultimate">Order now<br> €14,99/month</a>
+							<a href="#Ultimate">Order now<br> €16,99/month</a>
 						</div>
 				</div>
 			</div>

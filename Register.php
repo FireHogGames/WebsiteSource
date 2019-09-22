@@ -22,8 +22,9 @@
 			<strong>
 			<a href="index">Home</a>
 			<a href="plans">Plans</a>
+			<a href="#contact">Contact</a>
 			<a class="login" href="#panel">Panel</a>
-			<a class="login" href="register">Register</a>
+			<a class="login" href="login">Account</a>
 			<button class="login" onclick="opendiscordchat()"><strong>Our Discord</strong></button>
 			</strong>
 		</div>
@@ -39,6 +40,7 @@
 				<input class="animated fadeInDown slow" type="password" name="password" placeholder="Password..."><br />
 				<input class="animated fadeInDown slow" type="password" name="confPassword" placeholder="ConfirmPassword"><br />
 				<input class="animated fadeInDown slow" type="submit" name="login" value="Log in">
+				<p style="color: white;">Already have an account? <a href="login">Login here!</a></p>
 			</form>
 		</div>
 	</div>
